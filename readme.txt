@@ -1,7 +1,7 @@
 Contribuições no trabalho:
 
 Arthur Boschini da Fonseca:
-
+ 
 - Pesquisa do dataset em navegadores de buscas
 - Análise de gráficos conclusivos (Histogramas)
 - Implementação do Método KNN de predição e classificação
